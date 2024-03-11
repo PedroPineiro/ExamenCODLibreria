@@ -26,7 +26,10 @@ public double calcularRaiz(int indice, double numero) {
     return resultado;
 }
 ```
-## Realizar un .jar del código
+## CREACIÓN DE UNA LIBRERÍA
+
+Crea un paquete (el nombre de los paquetes empiezan por minúscula) dentro del src donde irá el .java de la librería.
+Realiza un .jar del código.
 
 1. Asegurarse de que no haya errores de compilación en el código.
 2. File.
@@ -41,3 +44,12 @@ public double calcularRaiz(int indice, double numero) {
 11. Build Artifacts.
 12. Selecciona el JAR que acabas de configurar → Build.
 
+## IMPLEMENTACIÓN DE UNA LIBRERÍA
+1. File.
+2. Project Structure.
+3. Libraries.
+4. +.
+5. Java.
+6. Navega hasta tu .jar y seleccionalo (carpeta del proyecto del .jar - out - artifacts - carpeta).
+7. OK.
+8. Para poder utilizar ahora nuestra librería, debemos importarla con el nombre del paquete delante
