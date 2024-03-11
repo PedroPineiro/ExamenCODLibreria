@@ -1,3 +1,5 @@
+package com.examen;
+
 /**
  * Clase que realiza la multiplicación de dos números
  */

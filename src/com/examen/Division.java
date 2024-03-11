@@ -1,3 +1,5 @@
+package com.examen;
+
 /**
  * Clase que realiza la división de dos números
  */

@@ -1,3 +1,9 @@
+package com.examen;
+
+import com.examen.Division;
+import com.examen.Multiplicacion;
+import com.examen.Resta;
+import com.examen.Suma;
 import libreria.EntradaSalida;
 
 /**
@@ -10,7 +16,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        final float OPERACION = EntradaSalida.entrada("Elija la operación a realizar: \n1. Suma\n2. Resta\n" +
+        final float OPERACION = EntradaSalida.entrada("Elija la operación a realizar: \n1. com.examen.Suma\n2. com.examen.Resta\n" +
                 "3. Multiplicación\n4. División\n", 1);
         float a;
         float b;

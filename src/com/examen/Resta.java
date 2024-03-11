@@ -1,3 +1,5 @@
+package com.examen;
+
 /**
  * Clase que realiza la resta de dos números
  */

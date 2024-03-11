@@ -1,4 +1,6 @@
-// clase Raiz que contiene el método calcularRaiz que calcula la raíz de un número
+package com.examen;
+
+// clase com.examen.Raiz que contiene el método calcularRaiz que calcula la raíz de un número
 public class Raiz {
     /**
      * Calcula la raíz de un número.

@@ -9,7 +9,7 @@ Este proyecto consiste en la implementación de un método para calcular cualqui
 3. Creé la clase `Raices`.
 4. Implementé el método `calcularRaiz` que permite calcular cualquier raíz de un número.
 5. Generé la documentación Javadoc para la clase `Raices`.
-6. Implementé el método `calcularRaiz` en la clase `Main` para comprobar que funciona correctamente.
+6. Implementé el método `calcularRaiz` en la clase `com.examen.Main` para comprobar que funciona correctamente.
 
 ## Método calcularRaiz
 
@@ -38,7 +38,7 @@ Realiza un .jar del código.
 5. +.
 6. JAR.
 7. From modules with dependencies.
-8. Selecciona tu clase Main → OK.
+8. Selecciona tu clase com.examen.Main → OK.
 9. OK.
 10. Build.
 11. Build Artifacts.
